@@ -1,4 +1,4 @@
-# mango-ch4-smtirf-analysis
+# mango-ch4-tcspc-smtirf-analysis
 
 Analysis code for Chapter 4 of the PhD thesis "Fluorogenic RNA Mango Aptamers: Single-Molecule Characterisation and Applications in CRISPR-Mediated Genomic Imaging" (Fangqi Liu, Imperial College London, 2026).
 
