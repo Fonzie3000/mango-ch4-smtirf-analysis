@@ -6,7 +6,7 @@ Analysis code for Chapter 4 of the PhD thesis "Fluorogenic RNA Mango Aptamers: S
 - Single-molecule TIRF trace analysis of Mango II complexes with TO1-B and SALAD1
 
 ## Status
-Code to be added. This repository is private until thesis submission.
+Code to be added.
 
 ## Contact
 Fangqi Liu, MRC Laboratory of Medical Sciences / Imperial College London
